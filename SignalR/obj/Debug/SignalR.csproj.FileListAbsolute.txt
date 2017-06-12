@@ -24,3 +24,40 @@ R:\Github\SignalR\SignalR\bin\System.Web.WebPages.Deployment.xml
 R:\Github\SignalR\SignalR\bin\System.Web.WebPages.Razor.xml
 R:\Github\SignalR\SignalR\obj\Debug\SignalR.dll
 R:\Github\SignalR\SignalR\obj\Debug\SignalR.pdb
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\SignalR.dll.config
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\SignalR.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\SignalR.pdb
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Antlr3.Runtime.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Newtonsoft.Json.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Owin.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Helpers.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Mvc.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Optimization.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Razor.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.Deployment.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.Razor.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\WebGrease.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Antlr3.Runtime.pdb
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\Newtonsoft.Json.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Helpers.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Mvc.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Optimization.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.Razor.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.Deployment.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\bin\System.Web.WebPages.Razor.xml
+F:\Upwork\Cristian Merli\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
+F:\Upwork\Cristian Merli\SignalR\SignalR\obj\Debug\SignalR.dll
+F:\Upwork\Cristian Merli\SignalR\SignalR\obj\Debug\SignalR.pdb

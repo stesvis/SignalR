@@ -1,4 +1,6 @@
 ﻿using System.Web.Mvc;
+using Microsoft.AspNet.SignalR;
+using SignalR.Hubs;
 
 namespace SignalR.Controllers
 {
@@ -23,13 +25,14 @@ namespace SignalR.Controllers
             return View();
         }
 
-        public ActionResult Task()
+        public void Task()
         {
             for (int i = 1; i <= 30; i++)
             {
                 System.Threading.Thread.Sleep(1000);
+                ProgressHub.NotifyUI("We are at: " + i, i);
             }
-            return View();
+          //  return View();
         }
     }
 }

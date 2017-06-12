@@ -254,7 +254,8 @@
         _pageWindow.on("load", function () { _pageLoaded = true; });
     }
     else {
-        _pageWindow.load(function () { _pageLoaded = true; });
+        _pageWindow.on("load", function () { _pageLoaded = true; });
+        //_pageWindow.load(function () { _pageLoaded = true; });
     }
 
     function validateTransport(requestedTransport, connection) {
